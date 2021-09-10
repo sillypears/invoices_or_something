@@ -1,0 +1,10 @@
+{
+    
+        "logViewer.watch": [
+            {
+                "title": "Logs",
+                "pattern": "logs\\*.log"
+            }
+        ]
+    
+}
